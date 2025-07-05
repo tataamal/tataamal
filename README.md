@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Web Developer** with a focus on building scalable 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 **Languages**: HTML, CSS, JavaScript, PHP
+- 💻 **Languages**: <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />, <img src="{BadgeURLHere}" />, <img src="{BadgeURLHere}" />, <img src="{BadgeURLHere}" />
 - ⚙️ **Frameworks/Libraries**: Laravel, Bootstrap, jQuery
 - 🛢️ **Databases**: MySQL
 - 🔧 **Tools**: Git, VSCode, Figma
@@ -40,11 +40,11 @@ I'm a passionate **Full Stack Web Developer** with a focus on building scalable 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niltalamal&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niltalamal&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 ---
