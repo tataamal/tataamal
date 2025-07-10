@@ -35,11 +35,11 @@ I'm a passionate **Full Stack Web Developer** with a focus on building scalable 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niltalamal&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tataamal&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niltalamal&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tataamal&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 ---
