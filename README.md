@@ -1,62 +1,51 @@
-<!--
-**tataamal/tataamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Niltal%20Amal&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![My Photo](img/bg_image.png)
-### Hi there 👋, I'm Niltal (a.k.a Tata)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+Developer;AI+Engineer+Enthusiast" alt="Typing SVG" />
+</a>
 
-I'm a passionate **Full Stack Web Developer** with a focus on building scalable and efficient web applications. I enjoy learning new technologies, contributing to open-source projects, and solving real-world problems through code.
+</div>
 
----
+<br/>
 
-### 🚀 About Me
-- 🌱 Currently learning **Laravel**, **Git**, and improving my **Full Stack** skills
-- 👨‍💻 Previously worked on: `HTML`, `CSS`, `JavaScript`, `PHP`, and `Laravel`
-- 💡 Interested in **Web Development**, and **Software Engineering**
-- ⚡ Fun fact: I love debugging almost as much as I love coffee ☕
-- 📫 Reach me at: [tataamal1128@gmail.com](mailto:tataamal1128@gmail.com?subject=Connect%20With%20Niltal) | [LinkedIn](https://www.linkedin.com/in/yourname/)
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/><br/>Laravel</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP"/><br/>PHP</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/>JavaScript</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br/>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br/>MySQL</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="Nest.js"/><br/>Nest.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br/>Docker</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/>Git</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br/>Linux</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/><br/>Bootstrap</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/>Python</td>
+  </tr>
+</table>
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
----
+**Backend Developer:** Laravel, Nest.js, Express.js, Node.js
 
-### 📈 GitHub Stats
+**AI Engineering:** Laravel AI SDK, Microsoft Fabric, Anthropic, Gemini, OpenRouter, Python
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tataamal&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tataamal&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
----
-
-<!-- ### 📌 Featured Projects
-- 🚧 [**Project Name**](https://github.com/yourusername/project) – Short description of what it does
-- 🌐 [**Another Project**](https://github.com/yourusername/project2) – Another brief description
-- 📱 [**Mobile UI Design**](https://github.com/yourusername/project3) – A mobile-first responsive design project
-
---- -->
-
-<!-- ### 📝 Latest Blog Posts *(optional if you have a blog)*
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Title of blog post](#)
-- [Another post](#) -->
-<!-- BLOG-POST-LIST:END -->
-
+<br/>
 
 ### 🤝 Let's Connect
-![https://www.instagram.com/niltal.amal/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/niltal-amal/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.behance.net/](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tataamal1128@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niltal-amal/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niltal.amal/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
